@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EJERCICIOforJBHZ08032023/1.0.0": {
+        "runtime": {
+          "EJERCICIOforJBHZ08032023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJERCICIOforJBHZ08032023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
